@@ -3,6 +3,7 @@ import math
 while True:
 	menu = '''
 	Choose the math operation.
+	
 	0 - Addition
 	1 - Subtraction
 	2 - Multiplication
@@ -16,4 +17,4 @@ while True:
 	'''
 	print(menu)
 	
-	oper = input("\nYour option from the menu: ")
+	oper = input("\tYour option from the menu: ")
