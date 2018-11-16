@@ -15,4 +15,5 @@ while True:
 	9 - Tangent
 	'''
 	print(menu)
+	
 	oper = input("\nYour option from the menu: ")
